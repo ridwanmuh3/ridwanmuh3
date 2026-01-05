@@ -1,4 +1,4 @@
-<img style="object-position: center;" width="2048" height="250"  alt="anime-4" src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
+<img style="object-position: center; object-fit: contain;" width="2048" height="250"  alt="anime-4" src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
 
 <h1 align="left">Hello there👋</h1>
 
