@@ -1,6 +1,7 @@
-<img width="2048" height="1024" alt="anime-4" src="https://github.com/user-attachments/assets/0e37426b-8f1c-4399-8780-0b4473f4b6e3" />
+<img width="2048" height="400" alt="anime-4" src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
 
 <h1 align="left">Hello there👋</h1>
+
 ###
 
 <p align="left">My name is Ridwan Muhammad Raihan and I'm a Final Undergraduate Informatics Student, from Siliwangi University.</p>
