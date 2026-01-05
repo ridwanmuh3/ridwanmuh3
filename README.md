@@ -1,9 +1,9 @@
 <img style="
-  width: 2048px; 
+  width: 100%; 
+  max-width: 2048px; 
   height: 200px; 
-  object-fit: contain; 
+  object-fit: cover; 
   object-position: center;" 
-  alt="anime-4" 
   src="https://github.com/user-attachments/assets/30a2f4c7-39ef-4900-bc85-6b780f5b186f" />
 
 <h1 align="left">Hello there👋</h1>
