@@ -56,3 +56,9 @@
 ###
 
 <p>Coming soon🎉</p>
+
+### 
+
+<h2 align="left">My Stats</h2>
+
+[![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridwanmuh3)](https://github.com/ridwanmuh3/github-readme-stats)
