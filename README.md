@@ -41,19 +41,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="google cloud platform logo" title="Google Cloud Platform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" alt="google cloud platform logo" title="Google Cloud Platform" />
-  <img width="12" />
 </div>
 
 ###
 
 <h2 align="left">My Projects</h2>
-
-###
-
-<p>Coming soon🎉</p>
 
 ### 
 
