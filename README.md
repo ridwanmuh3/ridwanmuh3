@@ -43,10 +43,6 @@
   <img width="12" />
 </div>
 
-###
-
-<h2 align="left">My Projects</h2>
-
 ### 
 
 <h2 align="left">My Stats</h2>
