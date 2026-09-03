@@ -3,11 +3,11 @@
   <b>Backend & Full-Stack Developer</b> | <b>Cryptography & Blockchain Enthusiast</b> | <b>Informatics Graduate (GPA 3.74/4.00)</b>
 </p>
 
-<p align="center">
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ridwanmuh3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white)](https://ridwanmuh3.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ridwanmuhraihan@gmail.com)
-</p>
+</div>
 
 ---
 
@@ -92,7 +92,7 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 
 ## 🎓 Education & Certifications
 
-- **S.Kom. in Informatics Engineering** - Universitas Siliwangi | **GPA: 3.74/4.00**
+- **Bachelor of Informatics** - Universitas Siliwangi | **GPA: 3.74/4.00**
 - **Linux System Administration (RHEL)** - Red Hat Academy, Universitas Siliwangi | *Jun 2024*
 
 ---
