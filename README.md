@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Ridwan Muhammad Raihan 👋</h1>
 <p align="center">
-  <b>Backend & Full-Stack Engineer</b> | <b>Cryptography & Blockchain Enthusiast</b> | <b>Informatics Graduate (GPA 3.74/4.00)</b>
+  <b>Backend & Full-Stack Developer</b> | <b>Cryptography & Blockchain Enthusiast</b> | <b>Informatics Graduate (GPA 3.74/4.00)</b>
 </p>
 
 <p align="center">
-  <a href="https://id.linkedin.com/in/ridwanmuh3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://ridwanmuh3.github.io"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:ridwanmuhraihan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ridwanmuh3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white)](https://ridwanmuh3.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ridwanmuhraihan@gmail.com)
+
 </p>
 
 ---
