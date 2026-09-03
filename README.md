@@ -4,11 +4,9 @@
 </p>
 
 <p align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ridwanmuh3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=githubpages&logoColor=white)](https://ridwanmuh3.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ridwanmuhraihan@gmail.com)
-
 </p>
 
 ---
