@@ -30,7 +30,7 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 
 ## 💼 Professional Experience
 
-### 🔬 Research Assistant - *Universitas Siliwangi* | Aug 2022 – Jul 2026
+### 🔬 Research Assistant - *Universitas Siliwangi* | Feb 2026 – Mar 2026
 &gt; Web-based research system for secure QR Code & document verification
 
 - Architected and implemented **12 REST API endpoints** using **Nuxt 4** for QR Code issuance and verification workflows
