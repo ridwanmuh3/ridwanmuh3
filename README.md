@@ -30,11 +30,11 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 &gt; Web-based research system for secure QR Code & document verification
 
 - Architected and implemented **12 REST API endpoints** using **Nuxt 4** for QR Code issuance and verification workflows
-- Integrated **dual digital signature** (ECDSA + custom scheme) and **time-based encryption** to ensure integrity, authentication, and temporal validity of embedded documents
+- Integrated **dual digital signature** (ECDSA P-256) and **time-based encryption** to ensure integrity, authentication, and temporal validity of embedded documents
 - Conducted **security benchmarking and functional validation** to verify mechanism reliability under various attack scenarios
 
 ### 💻 Fullstack Web Developer - *SPPG Sinar Asri* | Dec 2025 – Mar 2026
-&gt; Budget & inventory management system for MBG (Free Meal) Program
+&gt; Budget & inventory management system for MBG  Program
 
 - Built **35 REST API endpoints** with **Go, Fiber, GORM, and PostgreSQL**, implementing **JWT authentication** and **role-based access control (RBAC)**
 - Engineered **financial and raw-material inventory modules** utilizing **row-level locking** to prevent race conditions in concurrent budget operations
@@ -53,7 +53,7 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 
 ### 🔏 Hybrid Digital Signatures for Blockchain Transaction Authentication
 **ULTIMATICS: Jurnal Teknik Informatika (SINTA 3)** - *Jun 2026*  
-[🔗 DOI Link](https://doi.org/...) *(update with your actual DOI)*
+[🔗 DOI Link](https://doi.org/10.31937/ti.v18i1.4516)
 
 - Designed a **proof-of-concept hybrid signature scheme** combining **ECDSA and ML-DSA** for Ethereum-compatible blockchain transactions using an **off-chain oracle helper**
 - **Performance Results:** ML-DSA signature size **2,531–4,738 bytes**, round-trip time **0.355–0.523 ms**, gas estimate **64,260–99,344** vs. ECDSA's **65 bytes** and **25,828 gas**
@@ -67,7 +67,6 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Libraries**  
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white)
@@ -108,6 +107,3 @@ I'm open for **Software Engineering internships** and **junior backend/full-stac
 - 🌐 **Portfolio:** [ridwanmuh3.github.io](https://ridwanmuh3.github.io)
 - 📧 **Email:** [ridwanmuhraihan@gmail.com](mailto:ridwanmuhraihan@gmail.com)
 
----
-
-&lt;p align="center"&gt;&lt;i&gt;"Building secure systems, one endpoint at a time."&lt;/i&gt;&lt;/p&gt;
