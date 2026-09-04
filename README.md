@@ -76,7 +76,7 @@ Archiving system with layered architecture
 
 I'm open for **Software Engineering internships** and **junior backend/full-stack roles**. Feel free to reach out!
 
-💼 **LinkedIn:** [linkedin.com/in/ridwanmuh3](https://id.linkedin.com/in/ridwanmuh3)
-🌐 **Portfolio:** [ridwanmuh3.github.io](https://ridwanmuh3.github.io)
+💼 **LinkedIn:** [linkedin.com/in/ridwanmuh3](https://id.linkedin.com/in/ridwanmuh3)\
+🌐 **Portfolio:** [ridwanmuh3.github.io](https://ridwanmuh3.github.io)\
 📧 **Email:** [ridwanmuhraihan@gmail.com](mailto:ridwanmuhraihan@gmail.com)
 
