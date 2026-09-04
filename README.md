@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ridwan Muhammad Raihan 👋</h1>
 <p align="center">
-  <b>Backend & Full-Stack Developer</b> | <b>Cryptography & Blockchain Enthusiast</b> | <b>Informatics Graduate (GPA 3.74/4.00)</b>
+  <b>Backend & Full-Stack Developer</b> | <b>Cryptography & Blockchain Enthusiast</b>
 </p>
 
 <div align="center">
