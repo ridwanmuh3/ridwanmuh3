@@ -31,37 +31,13 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 ## 💼 Professional Experience
 
 ### 🔬 Research Assistant - *Universitas Siliwangi* | Feb 2026 – Mar 2026
-&gt; Web-based research system for secure QR Code & document verification
-
-- Architected and implemented **12 REST API endpoints** using **Nuxt 4** for QR Code issuance and verification workflows
-- Integrated **dual digital signature** (ECDSA P-256) and **time-based encryption** to ensure integrity, authentication, and temporal validity of embedded documents
-- Conducted **security benchmarking and functional validation** to verify mechanism reliability under various attack scenarios
+Web-based research system for secure QR Code & document verification
 
 ### 💻 Fullstack Web Developer - *SPPG Sinar Asri* | Dec 2025 – Mar 2026
-&gt; Budget & inventory management system for MBG  Program
-
-- Built **35 REST API endpoints** with **Go, Fiber, GORM, and PostgreSQL**, implementing **JWT authentication** and **role-based access control (RBAC)**
-- Engineered **financial and raw-material inventory modules** utilizing **row-level locking** to prevent race conditions in concurrent budget operations
-- Developed **8 functional frontend pages** and an **analytics dashboard** using **React, TypeScript, and TanStack Query**, visualizing financial data with **Recharts**
+Budget & inventory management system for MBG  Program
 
 ### 🖥️ Backend Developer Intern - *Kantor Pertanahan Kab. Pangandaran* | Jun 2025 – Aug 2025
-&gt; Archiving system with layered architecture
-
-- Developed a **REST API** for document archiving using **Go, Echo, and GORM**, featuring **JWT auth, RBAC, file search, archive request tracking, and audit history**
-- Implemented **layered architecture** (Handler → Use Case → Repository) to enforce strict **separation of concerns** and maintainability
-- Analyzed functional & non-functional requirements and designed system workflows using **UML diagrams** as implementation blueprints
-
----
-
-## 📚 Publications
-
-### 🔏 Hybrid Digital Signatures for Blockchain Transaction Authentication
-**ULTIMATICS: Jurnal Teknik Informatika (SINTA 3)** - *Jun 2026*  
-[🔗 DOI Link](https://doi.org/10.31937/ti.v18i1.4516)
-
-- Designed a **proof-of-concept hybrid signature scheme** combining **ECDSA and ML-DSA** for Ethereum-compatible blockchain transactions using an **off-chain oracle helper**
-- **Performance Results:** ML-DSA signature size **2,531–4,738 bytes**, round-trip time **0.355–0.523 ms**, gas estimate **64,260–99,344** vs. ECDSA's **65 bytes** and **25,828 gas**
-- **Security Validation:** Successfully defended against **signature stripping, message manipulation, replay attacks, signature forgery, and invalid TLV format** attacks
+Archiving system with layered architecture
 
 ---
 
@@ -93,13 +69,6 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🎓 Education & Certifications
-
-- **Bachelor of Informatics** - Universitas Siliwangi | **GPA: 3.74/4.00**
-- **Linux System Administration (RHEL)** - Red Hat Academy, Universitas Siliwangi | *Jun 2024*
 
 ---
 
