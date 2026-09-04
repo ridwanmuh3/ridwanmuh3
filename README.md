@@ -22,7 +22,7 @@
 I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with a strong focus on **backend engineering, software architecture, and system security**. I specialize in translating architectural designs into **scalable, secure REST API implementations** and have hands-on experience in **cryptographic systems** and **blockchain technology**.
 
 🔐 Passionate about **Cryptography, Digital Signatures, and Blockchain Security**\
-🌱 Currently seeking **Software Engineering opportunities** to contribute to production-grade systems\
+🌱 Currently seeking **Software Engineering opportunities** to contribute to production-grade systems
 
 ---
 
