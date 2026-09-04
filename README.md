@@ -28,13 +28,13 @@ I'm a **fresh Informatics Engineering graduate from Universitas Siliwangi** with
 
 ## 💼 Professional Experience
 
-**Research Assistant - Universitas Siliwangi | Feb 2026 - Mar 2026**
+**Research Assistant - Universitas Siliwangi | Feb 2026 - Mar 2026** \
 Web-based research system for secure QR Code & document verification
 
-**Fullstack Web Developer - SPPG Sinar Asri | Dec 2025 - Mar 2026**
+**Fullstack Web Developer - SPPG Sinar Asri | Dec 2025 - Mar 2026** \
 Budget & inventory management system for MBG  Program
 
-**Backend Developer Intern - Kantor Pertanahan Kab. Pangandaran | Jun 2025 - Aug 2025**
+**Backend Developer Intern - Kantor Pertanahan Kab. Pangandaran | Jun 2025 - Aug 2025** \
 Archiving system with layered architecture
 
 ---
